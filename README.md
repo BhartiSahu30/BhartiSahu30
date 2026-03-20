@@ -2,6 +2,7 @@
 This is my first repository.
 <br>
 Author - Bharti Sahu
+this is setting of git
 <!-- used HTML for this like <br> tag for new line
 **BhartiSahu30/BhartiSahu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
