@@ -1,6 +1,8 @@
 ## BHARTI'S PROJECT
 This is my first repository.
-<!--
+<br>
+Author - Bharti Sahu
+<!-- used HTML for this like <br> tag for new line
 **BhartiSahu30/BhartiSahu30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Author - Bharti Sahu
+
